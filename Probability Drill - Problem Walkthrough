@@ -1,0 +1,24 @@
+Probability Drill - Unit 3:Lesson 2
+Problem 1:
+  Probability of getting variations flipping a balanced coin 4 times.
+  Variations: HTTH, HHHH and TTHH
+  There is a 50% change of getting heads and a 50% change of getting tails
+  This is a frequentist school of thought:
+    Becomes 1/2 or 1/2 or .5*.5*.5*.5
+    Probability of getting the variations noted on the problem is 0.0625
+    
+Problem 2:
+  Out of a list of 45 people (21 being men and 24 being women)the probability of selecting a man is 21/45.  What is the probability of selecting a woman?
+    Using the logic shown above, the probability of selecting a woman from the list is 24/45
+    
+Problem 3:
+  Probability of Bernice traveling by plane is 10%.  The probability of a plane crash is .005%.  What is the probability that Bernice will be in a plane crash sometime in the next year?
+  .10 * .005 = .0005
+  Probability is .0005%
+ 
+Problem 4:
+  A data scientist wants to study the behavior of users on the company website. Each time a user clicks on a link on the website, there is a 5% chance that the user will be asked to complete a short survey about their behavior on the website. The data scientist uses the survey data to conclude that, on average, users spend 15 minutes surfing the company website before moving on to other things. What is wrong with this conclusion?
+  
+  Answer:  This is an example of selection bias.  The logic is flawed because people who spend more time on the internet and click on links are more likely to get directed to complete a short survey. 
+  If a data scientist only uses the information collected from the people who get prompted to complete the survey, they are not getting a good representation of the data because they are more than likely only looking at data compiled from people who spend longer times browsing the internet.
+ 
